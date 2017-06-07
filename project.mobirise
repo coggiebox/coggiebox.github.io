@@ -175,7 +175,7 @@
                 "showText": true,
                 "text": "Born for co-wroking",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Start Free Trial</a>  "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Start Trial</a>  "
               },
               {
                 "active": false,
@@ -189,7 +189,7 @@
                 "showText": true,
                 "text": "Born for co-wroking",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Start Free Trial</a>  "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Start Trial</a>  "
               }
             ],
             "fullScreen": true,

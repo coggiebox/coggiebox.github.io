@@ -226,8 +226,8 @@
               "color": "#bcbcbc"
             },
             ".iconbox": {
-              "background-color": "#4b76b5",
-              "border-color": "#4b76b5"
+              "background-color": "#f98c00",
+              "border-color": "#f98c00"
             }
           },
           "_tags": [
@@ -236,7 +236,7 @@
           "_name": "features4",
           "_anchor": "features4-3",
           "_params": {
-            "iconsBgColor": "#4b76b5",
+            "iconsBgColor": "#f98c00",
             "paddingTop": 2,
             "paddingBottom": "2",
             "bgImageRadio": false,

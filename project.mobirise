@@ -45,8 +45,8 @@
             },
             ".navbar-caption": {
               "color": "#ffffff",
-              "font-family": "'Roboto', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
               "font-size": "20px"
             },
             ".navbar-toggler": {
@@ -67,13 +67,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#000508"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#001e2c!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#00283b"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -102,7 +102,7 @@
           "_name": "menu",
           "_anchor": "menu-0",
           "_params": {
-            "bgColor": "#282828",
+            "bgColor": "#00283b",
             "fontSize": 0.75,
             "fontName": {
               "name": "Roboto",
@@ -144,7 +144,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
+            "bgColor": "#00283b",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -434,7 +434,7 @@
           "title4": "Unlimited Sites",
           "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media5": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
@@ -620,7 +620,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/scene-1-2000x1250.png",
-            "bgColor": "#303030",
+            "bgColor": "#00283b",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -640,25 +640,25 @@
           "title": "<span style=\"font-weight: normal;\">PRICING</span>",
           "subtitle": "Pricing table with four columns and solid color background.",
           "label1": "HOT!",
-          "title1": "<font color=\"#000000\">Free</font>",
+          "title1": "<font color=\"#000000\" style=\"font-weight: normal;\">Free</font>",
           "subtitle1": "",
           "currency1": "",
           "price1": "Personal application",
           "period1": "",
           "description1": "",
           "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><span style=\"font-size: 0.875rem; line-height: 3.125rem;\">Personal storage 5G</span><br></li><li class=\"list-group-item\">Chat sharing file for 30 days</li><li class=\"list-group-item\">File management basic operation</li><li class=\"list-group-item\">Collaborative sharing</li><li class=\"list-group-item\">Chat basic operation</li></ul>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">Star free trial</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">Star trial</a>",
           "label2": "HOT!",
-          "title2": "Free",
+          "title2": "<span style=\"font-weight: normal;\">Free</span>",
           "subtitle2": "",
           "currency2": "",
           "price2": "Team",
           "period2": "",
           "description2": "",
           "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><span style=\"font-size: 0.875rem; line-height: 3.125rem;\">Team storage 15G</span></li><li class=\"list-group-item\"><span style=\"font-size: 0.875rem; line-height: 3.125rem;\">Team members unlimited</span></li><li class=\"list-group-item\"><span style=\"font-size: 0.875rem; line-height: 3.125rem;\">Upload new version</span>Chat sharing file </li><li class=\"list-group-item\">for 60 days</li><li class=\"list-group-item\">File version</li><li class=\"list-group-item\">Tasks</li><li class=\"list-group-item\">Workflow</li><p></p></ul>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white-outline btn-white\" data-toolbar=\"-mbrBtnMove\">Start free trial</a> ",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white-outline btn-white\" data-toolbar=\"-mbrBtnMove\">Start trial</a> ",
           "label3": "HOT!",
-          "title3": "Enterprise",
+          "title3": "<span style=\"font-weight: normal;\">Enterprise</span>",
           "subtitle3": "",
           "currency3": "",
           "price3": "",
@@ -702,8 +702,8 @@
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.9",
-            "overlayColor": "#222222",
+            "overlayOpacity": "0.7",
+            "overlayColor": "#000000",
             "showTitle": true,
             "showSubTitle": false
           },
@@ -735,7 +735,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/oq3a9p1-2000x1666.png",
-            "bgColor": "#2e2e2e",
+            "bgColor": "#00283b",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,

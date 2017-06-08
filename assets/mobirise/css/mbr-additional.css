@@ -546,6 +546,8 @@ h6,
 }
 
 
+
+
 #msg-box8-r .mbr-section-title,
 #msg-box8-r p {
   color: #fff;
@@ -636,4 +638,12 @@ h6,
 }
 #features3-w H4 {
   color: #232323;
+}
+#features3-z B {
+  font-family: 'Roboto', sans-serif;
+  font-size: 14px;
+}
+#features3-z H5 {
+  font-size: 20px;
+  font-family: 'Roboto', sans-serif;
 }

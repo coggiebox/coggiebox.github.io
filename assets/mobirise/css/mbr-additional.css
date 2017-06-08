@@ -422,9 +422,6 @@ h6,
 .mbr-gallery-filter li:hover {
   color: #f98c00;
 }
-.scrollToTop_wraper {
-  opacity: 0 !important;
-}
 #menu-0 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -631,7 +628,7 @@ h6,
   text-align: center;
 }
 #header3-u FONT {
-  text-align: left;
+  text-align: center;
 }
 #header3-y .mbr-section-title,
 #header3-y .mbr-section-subtitle {

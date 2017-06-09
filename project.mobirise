@@ -996,7 +996,7 @@
           "_anchor": "features3-w",
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": 2,
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -1018,7 +1018,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/gary-600x600.png",
+              "src": "@PROJECT_PATH@/assets/images/gary-1-600x600.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1034,7 +1034,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/vita-600x600.png",
+              "src": "@PROJECT_PATH@/assets/images/vita-1-600x600.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1050,7 +1050,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/patty-1-600x600.png",
+              "src": "@PROJECT_PATH@/assets/images/patty-2-600x600.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1066,7 +1066,7 @@
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/cons-600x600.png",
+              "src": "@PROJECT_PATH@/assets/images/cons01-600x600.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1082,7 +1082,7 @@
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/johnny-600x600.png",
+              "src": "@PROJECT_PATH@/assets/images/johnny-1-600x600.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1098,7 +1098,7 @@
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media6": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/jain-600x600.png",
+              "src": "@PROJECT_PATH@/assets/images/jain-1-600x600.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1126,7 +1126,7 @@
           "_anchor": "features3-x",
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": 2,
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -1148,7 +1148,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/david-600x600.png",
+              "src": "@PROJECT_PATH@/assets/images/david-1-600x600.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1164,7 +1164,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mervin-600x600.png",
+              "src": "@PROJECT_PATH@/assets/images/mervin-1-600x600.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1180,7 +1180,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/dera-600x600.png",
+              "src": "@PROJECT_PATH@/assets/images/dera-1-600x600.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1196,7 +1196,7 @@
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/randy-600x600.png",
+              "src": "@PROJECT_PATH@/assets/images/randy-1-600x600.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1212,7 +1212,7 @@
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/eagle-600x600.png",
+              "src": "@PROJECT_PATH@/assets/images/eagle-1-600x600.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1228,7 +1228,7 @@
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media6": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/loki-600x600.png",
+              "src": "@PROJECT_PATH@/assets/images/loki-1-600x600.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1251,7 +1251,7 @@
           "_anchor": "features3-z",
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": 2,
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -1273,7 +1273,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/eric-600x600.png",
+              "src": "@PROJECT_PATH@/assets/images/eric-1-600x600.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1289,7 +1289,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/an-600x600.png",
+              "src": "@PROJECT_PATH@/assets/images/an-1-600x600.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1305,7 +1305,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/wallace-600x600.png",
+              "src": "@PROJECT_PATH@/assets/images/wallace-1-600x600.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,

@@ -797,6 +797,19 @@ h6,
 #msg-box8-1d p {
   color: #fff;
 }
+#msg-box8-1d .mbr-section-title FONT {
+  color: #ffffff;
+}
+#msg-box6-1g .mbr-section-title,
+#msg-box6-1g .lead p {
+  color: #fff;
+}
+#msg-box6-1g H3 {
+  color: #232323;
+}
+#msg-box6-1g P {
+  color: #cccccc;
+}
 #menu-17 .hide-buttons .nav-btn {
   display: none !important;
 }

@@ -649,78 +649,23 @@ h6,
 }
 
 
-#menu-11 .hide-buttons .nav-btn {
-  display: none !important;
+#pricing-table2-1h .mbr-plan-header,
+#pricing-table2-1h .mbr-plan-body {
+  background-color: #f4f4f4;
 }
-#menu-11 .navbar-caption {
-  color: #ffffff;
-  font-family: 'Open Sans', sans-serif;
-  font-size: 20px;
+#pricing-table2-1h ul,
+#pricing-table2-1h .mbr-plan-title,
+#pricing-table2-1h .mbr-price-value,
+#pricing-table2-1h .mbr-price-figure,
+#pricing-table2-1h .mbr-price-term {
+  color: #28262b;
 }
-#menu-11 .navbar-toggler {
-  color: #ffffff;
+#pricing-table2-1h .mbr-plan {
+  border-color: #e8e8e8;
 }
-#menu-11 .link,
-#menu-11 .dropdown-item {
-  color: #ffffff;
-  font-family: 'Roboto', sans-serif;
+#pricing-table2-1h .mbr-plan .list-group-item {
+  border-color: #cfcfcf;
 }
-#menu-11 .link {
-  font-size: 0.75rem;
-}
-#menu-11 .dropdown-item,
-#menu-11 .nav-dropdown-sm .link {
-  font-size: 0.812rem;
-}
-#menu-11 .link:hover,
-#menu-11 .dropdown-item:hover,
-#menu-11 .link:focus,
-#menu-11 .dropdown-item:focus {
-  color: #f98c00;
-}
-#menu-11 .link[aria-expanded="true"],
-#menu-11 .dropdown-menu {
-  background: #000508;
-}
-#menu-11 .nav-dropdown-sm .link:focus,
-#menu-11 .nav-dropdown-sm .link:hover,
-#menu-11 .nav-dropdown-sm .dropdown-item:focus,
-#menu-11 .nav-dropdown-sm .dropdown-item:hover {
-  background: #001e2c!important;
-}
-#menu-11 .navbar,
-#menu-11 .nav-dropdown-sm,
-#menu-11 .nav-dropdown-sm .link[aria-expanded="true"],
-#menu-11 .nav-dropdown-sm .dropdown-menu {
-  background: #00283b;
-}
-#menu-11 .bg-color.transparent .link {
-  color: #ffffff;
-  transition: none;
-}
-#menu-11 .bg-color.transparent.opened .link {
-  transition: color 0.2s ease-in-out;
-}
-#menu-11 .bg-color.transparent.opened .link:hover,
-#menu-11 .bg-color.transparent.opened .link:focus {
-  color: #f98c00;
-}
-#menu-11 .link[aria-expanded="true"],
-#menu-11 .dropdown-item[aria-expanded="true"] {
-  color: #f98c00!important;
-}
-#menu-11.mbr-navbar--stuck .mbr-navbar__section {
-  background: #2c2c2c;
-}
-#menu-11 .mbr-navbar__hamburger {
-  color: #ffffff;
-}
-#menu-11 .close-icon::before,
-#menu-11 .close-icon::after {
-  background-color: #ffffff;
-}
-
-
 #menu-14 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -805,7 +750,7 @@ h6,
   color: #fff;
 }
 #msg-box6-1g H3 {
-  color: #232323;
+  color: #000000;
 }
 #msg-box6-1g P {
   color: #cccccc;
